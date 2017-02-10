@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "643685518748",
+    "firebase_url": "https://qferizdemo.firebaseio.com",
+    "project_id": "qferizdemo",
+    "storage_bucket": "qferizdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643685518748:android:00a5616cb5e3cdbe",
+        "android_client_info": {
+          "package_name": "id.web.qferizstudio.qferizdemofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643685518748-1r6u44dcncvv7o0h0g8o6frd6a2b5prn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQvC4fLMvlWoh9POTao3YJk492tKJFus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
